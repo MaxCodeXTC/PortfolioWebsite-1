@@ -1,0 +1,63 @@
+body {
+	background: url("images/background.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	color: white !important;
+	font-family: 'Roboto', sans-serif;
+}
+
+nav {
+	position: fixed;
+	top: 0px;
+	font-family: 'Roboto', sans-serif;
+}
+
+div {
+	width: 60%;
+	margin: auto;
+	text-align:center;
+}
+
+h1 {
+	text-align: center;
+	
+}
+
+.navbar-nav {
+	padding-right: 275px;
+
+}
+
+iframe {
+	margin: auto;
+	text-align: center;
+}
+
+img {
+	text-align: center;
+}
+
+#dennis {
+	text-align:right;
+	width:50%;
+	margin: auto;
+	color: yellowgreen;
+}
+
+q {
+	color: yellowgreen;
+}
+
+blockquote {
+	color:silver;
+}
+
+p {
+	text-align: left;
+}
+
+.card {
+	background-color: black;
+}
+
+

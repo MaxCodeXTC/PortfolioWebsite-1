@@ -1,9 +1,29 @@
+html {
+	scroll-behavior: smooth;
+}
+
 body {
 	background: url("images/background.jpg");
 	background-size: cover;
 	background-attachment: fixed;
 	color: white !important;
 	font-family: 'Roboto', sans-serif;
+}
+@media (max-width: 960px) {
+    img {
+		max-width: 70%;
+		max-height: 70%;
+	}
+
+	p {
+		font-size: 0.8em !important;
+		width:100% !important;
+	}
+
+	blockquote {
+		max-width:50%;
+		font-size: 0.1 em !important;
+	}
 }
 
 a {
@@ -43,7 +63,9 @@ img {
 	border-radius: 5%;
 	box-shadow: 5px 5px 10px rgba(129, 89, 25, 0.2);
 	display: inline-block;
+
 }
+
 
 .box-shadow {
 	box-shadow: 5px 5px 10px rgba(129, 89, 25, 0.2);

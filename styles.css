@@ -6,6 +6,10 @@ body {
 	font-family: 'Roboto', sans-serif;
 }
 
+a {
+	transition: all 0.3s linear;
+}
+
 nav {
 	position: fixed;
 	top: 0px;
@@ -15,7 +19,11 @@ nav {
 div {
 	width: 60%;
 	margin: auto;
-	text-align:center;
+	text-align: center;
+}
+
+.centered-div {
+	text-align:center !important;
 }
 
 h1 {
@@ -28,13 +36,23 @@ h1 {
 
 }
 
-iframe {
-	margin: auto;
-	text-align: center;
-}
-
 img {
 	text-align: center;
+	/* margin-top:150px; */
+	/* margin-bottom:150px; */
+	border-radius: 5%;
+	box-shadow: 5px 5px 10px rgba(129, 89, 25, 0.2);
+	display: inline-block;
+}
+
+.box-shadow {
+	box-shadow: 5px 5px 10px rgba(129, 89, 25, 0.2);
+}
+
+.centered {
+	text-align: center;
+	margin: auto;
+	display: inline-block;
 }
 
 #dennis {
@@ -44,20 +62,45 @@ img {
 	color: yellowgreen;
 }
 
+#aboutMe {
+	width: 75%;
+	margin: auto;
+}
+
 q {
 	color: yellowgreen;
 }
 
 blockquote {
 	color:silver;
+	width: 500px;
+	text-align: center;
+	margin: 0px 0px 0px 0px !important;
+	padding: 0px 0px;
+	display: inline-block;
+	background-color: rbga(45, 45, 45, 0.5) !important;
+}
+
+p, ol, li {
+	text-align: left;
+	
 }
 
 p {
-	text-align: left;
+	font-size: 1.5em;
 }
-
+ li {
+	 font-size: 1em;
+ }
 .card {
 	background-color: black;
 }
+
+footer {
+	text-align: center;
+	
+}
+
+
 
 

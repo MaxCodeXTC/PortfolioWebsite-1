@@ -1,3 +1,40 @@
 Background Photo:
 Photo by Zany Jadraque on Unsplash
 
+Quote Photo:
+Photo by Andrew Neel on Unsplash
+
+<p>My background is actually in education (Math teacher) and with the Covid crisis, I decided to try something new at the beginning of April. I had always wanted to learn programming (actually was a CS major in Junior College for a semester, but had a horrible work ethic back then). So I did a google search on the most popular programming languages in use today and Python kept coming up.</p>
+
+<p>So I did some research on google and started getting a few cheap books on Kindle to help me get started. I learned the ins and outs of basic programming concepts such as variables, data types, if statements, for and while loops, etc... fast forward to April 24th.</p>
+
+<p>While I was enjoying the process of learning Python, and I will continue to learn more about it on the side, it came to mind that hey! Maybe I would enjoy game development (I’ve been an avid gamer since I was a kid). So once again, hopped on google and came across Thomas Brush’s video about game development and which engines are the best to learn, which brought me to Unity...</p>
+
+<p>I started off with some of the learn tutorials that Unity provides, namely the UFO one comes to mind. And things could were very confusing at first, just in terms of the C# scripting and how everything was working together. However, I kept plugging away at it and before you knew it, I had a little UFO moving around the screen being able to pickup gems and add to my current score...it was such an accomplished feeling. Now at that time, I probably wouldn’t be able to recreate a game with basic movement and triggers, but I was laying down a foundation. Since that time, I have gone through several tutorials that once again were showing me how to create player movement and use triggers. Over time I have become more confident and more competent in implementing those into code.</p>
+
+<p>I have gone through similar experiences as I have with the UFO tutorials, but with other concepts such as script referencing, sprites, animations, state machines, just to name a few. Every single one of these concepts has been difficult at first, but as I have been putting in the work to learn them, once again I am becoming more confident and competent in implementing them into code and/or the Unity editor.</p>
+
+<p>My point here is this: Keep on keeping on learning and trying out new concepts as you master old ones. If you are persistent, things will pay off. After almost a month in, I am already seeing dividends in my knowledge and am getting more and more excited for the prospect of changing careers into something I am passionate about and truly enjoy doing. It will take hard work and persistence, but if you have that, I don’t think that there’s anything that can stop you.</p>
+
+<p>All that being said, I have some tips for those of you just starting out since I am right there with you!</p>
+
+<ol>
+<li>Make your own (simple) games.
+
+<p>As tempting as it is to just cut and paste from tutorial videos, I have found some of my most valuable learning experiences have come from trying something from scratch. Even if your game is just a blue square moving around a green background, WRITE IT! With each coding experience you will learn something new. Be sure to look things up in the Unity documentation, YouTube, or books. There is a wealth of information out there.</p></li>
+
+<li>Coding Challenges
+
+<p>Whenever a tutorial video gives you a coding or implementation challenge, don’t just skip ahead to watch and get spoon-fed the answer. Use it as an opportunity to grow! Some of my biggest “aha!” Moments have been when I came across a learning challenge and really struggled, but persisted through it and discovered the answer on my own. My brain has also started being able to have foresight into where I can start to get a challenge solved.</p></li>
+
+<li>Develop that research skill
+
+<p>I think this is THE most important part of being a programmer. When you don’t know how to do something—look it up! Know that it’s okay not to know everything, what’s important is that you seek out answers to help you solve the problem you have. Google, YouTube, Unity Script reference and documentation are all great places to start.</p></li>
+
+<li>Take a Break When Frustrated
+
+<p>While creating your own games, there will be times when you have researched a problem for an hour or two, have tried many iterations of code after watching several videos, looked up documentation, etc. and you still can’t solve the problem. At that point, step away from that problem and try working on a different aspect of your project. If you are struggling with a scripting error, take some time to develop your sprites or tile sets. If your collision doesn’t seem to be working, try working on setting up some animations. You can always come back to the original problem with a refreshed mind.</p></li>
+
+<p>I hope these tips help and just really want to encourage all of you out there just starting out with Unity and/or programming to keep on keeping on! Trust me, it will pay off!</p>
+
+<p>if any of you want to connect, feel free to reach out, I’m always looking for people with a similar skill level to connect with :)</p>
